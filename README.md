@@ -60,7 +60,7 @@ flappy-bird-tkinter/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flappy-bird-tkinter.git
+git clone https://github.com/tushar18-2006/flappy-bird-tkinter.git
 ```
 
 Go into the project folder:
